@@ -9,3 +9,4 @@ Smat Campus QR
 2) For the backend for the time being we are using MySQL but if it would be tough for data handling we will be shifting to some other dbms like mongoDB.
     
 3) 
+abx
